@@ -25,7 +25,7 @@ To get started with the Clinical Trials Repository, follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/stogaja/clinical-trials.git
+git clone https://github.com/stogaja/clinical-trials#about-clinical-trials
 
 2. Install any required dependencies or libraries (if applicable).
 
