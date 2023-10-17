@@ -1,6 +1,6 @@
 # Clinical Trials Repository
 
-Welcome to our Clinical Trials Repository! This repository contains a curated collection of information related to clinical trials conducted in various medical fields. Our goal is to provide valuable insights and resources for researchers, medical professionals, and anyone interested in the advancement of healthcare.
+This repository contains a curated collection of information related to clinical trials conducted in various medical fields. Our goal is to provide valuable insights and resources for researchers, medical professionals, and anyone interested in the advancement of healthcare.
 
 ## Table of Contents
 
