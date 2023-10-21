@@ -8,7 +8,7 @@ This repository contains a curated collection of information related to clinical
 - [Dataset Overview](#dataset-overview)
 - [Getting Started](#getting-started)
 - [Data Fields](#data-fields)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [License](#license)
 
 ## About Clinical Trials
@@ -25,7 +25,9 @@ To get started with the Clinical Trials Repository, follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/stogaja/clinical-trials
+```
+git clone <https://github.com/stogaja/clinical-trials>
+```
 
 2. Install any required dependencies or libraries (if applicable).
 
@@ -35,20 +37,25 @@ git clone https://github.com/stogaja/clinical-trials
 
 The dataset includes the following key fields:
 
-- **Trial ID**: Unique identifier for each clinical trial.
-- **Phase**: The phase of the clinical trial (e.g., Phase I, Phase II, Phase III).
-- **Intervention**: Details about the intervention or treatment being tested.
-- **Participant Criteria**: Eligibility criteria for participants.
-- **Outcome Measures**: Metrics used to evaluate the trial's success.
+- **NCT_Number**: Unique identifier for each clinical trial.
+- **Phases**: The phase of the clinical trial (e.g., Phase I, Phase II, Phase III & Phase IV).
+- **Study_status**: Details about the intervention or treatment being tested.
+- **Age**: Different ages of the participants.
+- **Study_results**: Its binary and contains whether or not the study results are available.
 - **Start Date**: Date when the trial commenced.
 - **End Date**: Date when the trial concluded (if available).
-- ...
+- [Dataset Link](https://drive.google.com/drive/folders/1_Mwd5TC1enoaBoXYpZYhSuJ_Y6lF-EnX)
 
-For a complete list of data fields and their descriptions, refer to the [Data Dictionary](data_dictionary.md).
+## Contributors
 
-## Contributing
+<details>
+  <summary>Colaborators in the project were:</summary>
+  
+- [Mutheu Nguta](https://github.com/mutheu-array)
+- [Prudence Muchangi](https://github.com/PrudenceMu)
+- [Stephen Ogaja](https://github.com/stogaja)
 
-We welcome contributions from the community! If you have additional clinical trial data or improvements to the repository, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+</details>
 
 ## License
 
