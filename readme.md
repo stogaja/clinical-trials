@@ -4,6 +4,8 @@
 
 This repository contains a curated collection of information related to clinical trials conducted in various medical fields. Our goal is to provide valuable insights and resources for researchers, medical professionals, and anyone interested in the advancement of healthcare.
 
+**The file for marking is [clinical-trials.ipynb](https://github.com/stogaja/clinical-trials/clinical-trials.ipynb)**
+
 ## Table of Contents
 
 - [About Clinical Trials](#about-clinical-trials)
